@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I missed talking with you!!!";
+  question.innerHTML = "Aree sirrrr aap bhi na cutie se ho LOB U (⸝⸝⸝> ▵ <⸝⸝⸝)!!!";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
@@ -21,3 +21,4 @@ noBtn.addEventListener("mouseover", () => {
   noBtn.style.left = randomX + "px";
   noBtn.style.top = randomY + "px";
 });
+
